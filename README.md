@@ -8,4 +8,4 @@ Changes1 difftool
 
 Working on branch called "updates" updating on branch again3
 
-conflicting update should cause issue
+This is bound to cause trouble
