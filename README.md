@@ -2,10 +2,6 @@
 
 This is a simple read me file
 
-new updates
+## Heading 2
+Just something going on
 
-Changes1 difftool
-
-Working on branch called "updates" updating on branch again3
-
-This is bound to cause trouble
